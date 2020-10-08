@@ -56,6 +56,9 @@ Plug 'tpope/vim-endwise'
 Plug 'w0rp/ale'
 Plug 'neoclide/coc.nvim'
 Plug 'prettier/vim-prettier', { 'do': 'npm install' }
+
+Plug 'mattn/emmet-vim'
+Plug 'tpope/vim-surround'
 call plug#end()
 
 " FZF config
