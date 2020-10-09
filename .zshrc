@@ -120,7 +120,7 @@ set -o vi
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
+source ~/.rvm/scripts/rvm
 
-# GPG all tthe things
+# GPG all the things
 export GPG_TTY=$(tty)
-
