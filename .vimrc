@@ -12,7 +12,7 @@ filetype plugin on
 set laststatus=2
 
 " Enable system clipboard
-set clipboard+=unnamedplus
+set clipboard=unnamedplus
 
 " 1 tab to 2 space 
 set tabstop=2
