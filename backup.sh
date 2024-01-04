@@ -20,8 +20,3 @@ backup_file $NVIM_CONFIG_FILE
 # Move to dotfiles directory
 cd $DOTFILES_DIR
 
-# Git add, commit, and push
-git add .
-git commit -m "Updated dotfiles backup"
-git push
-
